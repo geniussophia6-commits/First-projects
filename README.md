@@ -1,2 +1,6 @@
-# First-projects
-My first GitHub test project
+# Welcome to My Career Coaching Website Project
+This project will include:
+- Resume Writing
+- Job Placement
+- Interview Preparation
+- Career Coaching
